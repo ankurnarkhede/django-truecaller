@@ -1,4 +1,4 @@
-# Instahyre assignment
+# DJANGO TRUECALLER
 
 Steps to run the API
 ## Install dependencies
