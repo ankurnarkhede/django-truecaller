@@ -82,7 +82,7 @@ pyRFC3339==1.0
 python-apt==1.6.3+ubuntu1
 python-dateutil==2.6.1
 python-debian==0.1.32
-python-gnupg==0.4.1
+python-gnupg==0.4.4
 python-xlib==0.20
 pytz==2018.9
 pyxdg==0.25
