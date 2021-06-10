@@ -17,7 +17,7 @@ cupshelpers==1.0
 decorator==4.1.2
 defer==1.0.6
 distro-info===0.18ubuntu0.18.04.1
-Django==2.1.7
+Django==2.2.24
 djangorestframework==3.9.2
 djangorestframework-stubs==0.4.2
 entrypoints==0.2.3.post1
