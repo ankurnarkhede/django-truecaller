@@ -3,7 +3,7 @@ argcomplete==1.8.1
 asn1crypto==0.24.0
 astroid==2.2.5
 autopep8==1.4.3
-Babel==2.4.0
+Babel==2.9.1
 beautifulsoup4==4.6.0
 bleach==2.1.2
 Brlapi==0.6.6
