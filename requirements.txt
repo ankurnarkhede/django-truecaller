@@ -88,7 +88,7 @@ pytz==2018.9
 pyxdg==0.25
 PyYAML==3.12
 pyzmq==16.0.2
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.21.0
 requests-unixsocket==0.1.5
 rsa==3.3
