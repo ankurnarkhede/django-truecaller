@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2d55a8d-beef-4ef5-b2bc-ac89c7b84076" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7b4c8009-2a15-4afd-8272-9dfb57c84abb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7b4c8009-2a15-4afd-8272-9dfb57c84abb.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/instahyre_assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/instahyre_assignment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="e2d55a8d-beef-4ef5-b2bc-ac89c7b84076" name="Default Changelist" comment="CHanged auth" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,7 +178,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Django Server.instahyre_assignment.executor": "Run",
+    "Django Server.instahyre_assignment.executor": "Debug",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -307,8 +300,17 @@
       <workItem from="1720929339431" duration="230000" />
       <workItem from="1720929575373" duration="95000" />
       <workItem from="1720954031110" duration="2215000" />
-      <workItem from="1721026475669" duration="3137000" />
+      <workItem from="1721026475669" duration="12902000" />
     </task>
+    <task id="LOCAL-00001" summary="CHanged auth">
+      <option name="closed" value="true" />
+      <created>1721109889810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721109889811</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -358,6 +360,21 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CHanged auth" />
+    <option name="LAST_COMMIT_MESSAGE" value="CHanged auth" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/truecaller/authentication.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/instahyre_assignment/__init__.py">

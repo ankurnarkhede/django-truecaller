@@ -188,7 +188,7 @@ class SearchPhoneList(APIView):
     authentication_classes = [TokenAuthentication]
     permission_classes = [IsAuthenticated]
 
-def get(self, request):
+    def get(self, request):
         phone = request.GET.get('phone', None)
 
         try:
